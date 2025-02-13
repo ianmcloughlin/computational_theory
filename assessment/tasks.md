@@ -1,6 +1,7 @@
 # Tasks
 
-Make sure to re-read the [assessment instructions](instructions.md) regularly.
+Make sure to re-read the [assessment instructions](instructions.md) regularly.  
+The main reference for these tasks is [FIPS 180-4, Secure Hash Standard (SHS)](https://csrc.nist.gov/pubs/fips/180-4/upd1/final).  
 
 ## Task 1: Binary Representations
 
