@@ -58,7 +58,7 @@ The output would be:
 
 ## Task 4: Prime Numbers
 
-Calculate the first 1,00 prime numbers using two different algorithms.  
+Calculate the first 100 prime numbers using two different algorithms.  
 Any algorithms that are well-established and works correctly are okay to use.  
 Explain how the algorithms work.
 
