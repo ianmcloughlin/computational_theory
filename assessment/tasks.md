@@ -64,7 +64,7 @@ Explain how the algorithms work.
 
 ## Task 5: Roots
 
-Calculate the first 32 bits of the fractional part of the square roots or the first 100 prime numbers.
+Calculate the first 32 bits of the fractional part of the square roots of the first 100 prime numbers.
 
 ## Task 6: Proof of Work
 
